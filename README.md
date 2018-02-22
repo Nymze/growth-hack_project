@@ -15,5 +15,13 @@ Nous avons découpé le travail du jour en 4 étapes:
 #### Remarque:
 Le scrappeur fonctionne quand il s'agit de récupérer les données, mais nous n'avons pas encore trouvé comment rediriger ces données directement dans une liste Mailchimp. Work in progress...<br/>
 <br/>
+#### MailChimp:
 Concernant MailChimp, nous avons créé un **Signup Form - embbeded** depuis la liste. Cela nous a permis de récupérer le code de ce *form* et de l'intégrer dans notre section "five" de notre `index.html.erb`. 
+Il suffit de lui donner les classes que notre template bootstrap comportait déjà, pour que notre signup formulaire rentre dans les thématiques de notre landing page.
+<br/>
+En parallèle, nous avons importé les adresses mails scrappées précédemment, de notre base de donnée excel à la liste MailChimp, qui nous permettra plus tard d'effectuer une campagne d'emails.<br/>
+Ceci étant fait, nous avons donc:
+* Une base de donnée avec pleins d'emails d'universitées londoniennes, pour pouvoir promouvoir la Réalité augmentée si chère à @Arnaud.
+* Un email soigneusement élaboré par @Elodie, qui comporte des vidéos, et un bouton qui redirige vers notre landing Page au click.
+<br/>
 
