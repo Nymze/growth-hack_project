@@ -11,6 +11,7 @@ Nous avons découpé le travail du jour en 4 étapes:
 * Sauvegarder notre base de donnée dans une liste [Maichimp](https://us17.admin.mailchimp.com/).
 * Envoi d'un mail comportant un bouton qui redirige vers notre notre *Landing page* à toute notre liste.
 <br/>
+
 #### Remarque:
 Le scrappeur fonctionne quand il s'agit de récupérer les données, mais nous n'avons pas encore trouvé comment rediriger ces données directement dans une liste Mailchimp. Work in progress...<br/>
 <br/>
