@@ -2,7 +2,7 @@
 #### By Arnaud Meneroud
 <br/>
 <br/>
-Pour commencer voici la Landing page sur laquelle vous pourrez vous inscrire à notre newletter: https://damp-thicket-67928.herokuapp.com/.
+Pour commencer voici la Landing page sur laquelle vous pourrez vous inscrire à notre newletter:  https://insilico-virtual.herokuapp.com/. 
 <br/>
 Nous avons découpé le travail du jour en 4 étapes:
 
