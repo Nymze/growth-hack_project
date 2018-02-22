@@ -11,7 +11,7 @@ Nous avons découpé le travail du jour en 4 étapes:
 * Sauvegarder notre base de donnée dans une liste [Maichimp](https://us17.admin.mailchimp.com/).
 * Envoi d'un mail comportant un bouton qui redirige vers notre notre *Landing page* à toute notre liste.
 <br/>
-##### Remarque:
+#### Remarque:
 Le scrappeur fonctionne quand il s'agit de récupérer les données, mais nous n'avons pas encore trouvé comment rediriger ces données directement dans une liste Mailchimp. Work in progress...<br/>
 <br/>
 Concernant MailChimp, nous avons créé un **Signup Form - embbeded** depuis la liste. Cela nous a permis de récupérer le code de ce *form* et de l'intégrer dans notre section "five" de notre `index.html.erb`. 
